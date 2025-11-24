@@ -17,7 +17,3 @@ A smart weather station built on ESP32-C3 SuperMini with real-time updates, NTP 
 1. Clone repo
 2. Configure WiFi credentials in `config.example.h` and rename it `config.h`
 4. Upload to ESP32
-
-
-## License
-MIT 
